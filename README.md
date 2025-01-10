@@ -10,5 +10,5 @@ I love **Python** and **Rust**.
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/fluffykillercat)
 
 
-Do not forget to view my open source projects below 👇🏻
+
 
