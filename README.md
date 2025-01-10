@@ -2,7 +2,7 @@
 
 Hello, this is **Joud H.**
 
-I'm an asspiring **software developer** living in **München, Germany**, studying for [Ma](https://masterschools.com).
+I'm an asspiring **software developer** living in **München, Germany**, studying for [MasterSchool](https://masterschools.com).
 I like to **going to conferences and hearing talks**.
 I love **open source development** and I build things on my GitHub profile (here).
 I love **Python** and **Rust**.
