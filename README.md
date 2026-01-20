@@ -1,6 +1,5 @@
 # Hello, I'm Joud H.
 
-I'm an aspiring **software developer** based in **Munich, Germany**, currently studying at [MasterSchool](https://masterschools.com).
 
 My focus is on **backend development** with **Python**, and I'm especially interested in building intelligent systems using modern AI tooling. I enjoy working on projects that combine software engineering with machine learning to create real-world value.
 
