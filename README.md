@@ -8,7 +8,7 @@ I attend tech conferences, follow AI research trends, and contribute to open sou
 ##  Tech Skills
 - **Primary Language:** Python
 - **Focus Areas:** Backend systems, AI pipelines, data workflows
-- **Tooling:** Hugging Face Transformers, LangChain, OpenAI API, FastAPI, Celery, Redis
+- **Tooling:** Hugging Face Transformers, LangChain, OpenAI API, FastAPI, Celery, Redis, GraphQL
 - **Workflow:** API design, data processing, and model integration
 
 ##  Current Interests
