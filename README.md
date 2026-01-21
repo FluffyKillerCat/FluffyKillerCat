@@ -3,6 +3,10 @@
 
 My focus is on **backend development** with **Python**, and I'm especially interested in building intelligent systems using modern AI tooling. I enjoy working on projects that combine software engineering with machine learning to create real-world value.
 
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=FluffyKillerCat&theme=tokyonight&hide_border=true)
+
+
 I attend tech conferences, follow AI research trends, and contribute to open source projects when I can.
 
 ##  Tech Skills
